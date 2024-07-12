@@ -1,4 +1,4 @@
-# Frontend Mentor - Blog preview card
+# Blog preview card
 
 I got [this design from frontendmentor.io](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS) and then I created my own markup.
 
