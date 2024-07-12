@@ -18,10 +18,11 @@
 }
 
 .card {
-  background-color: var(--pure-white);
   width: 384px;
-  box-shadow: 5px 5px 5px 5px, 5px 5px 5px 5px;
   border-radius: 25px;
+  box-shadow: 8px 8px;
+  border: solid 1px var(--black);
+  background-color: var(--pure-white);
 }
 
 .image {
@@ -49,11 +50,13 @@
 
 .author {
   display: flex;
+  align-items: center;
   margin: 0px 0px 24px 24px;
 }
 
 .userpic {
   width: 32px;
+  margin-right: 5.5px;
 }
 
 .authorname {
