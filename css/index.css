@@ -1,0 +1,62 @@
+:root {
+  /* Colors */
+  --black: hsl(0, 0%, 7%);
+  --pure-white: hsl(0, 0%, 100%);
+  --yellow: hsl(47, 88%, 63%);
+  --grey: hsl(0, 0%, 50%);
+
+  font-family: "Figtree", sans-serif;
+  background-color: var(--yellow);
+  font-size: 16px;
+}
+
+.center-screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.card {
+  background-color: var(--pure-white);
+  width: 384px;
+  box-shadow: 5px 5px 5px 5px, 5px 5px 5px 5px;
+  border-radius: 25px;
+}
+
+.image {
+  margin: 24px auto;
+}
+
+.content {
+  margin: 24px;
+}
+
+.category {
+  background-color: var(--yellow);
+  font-size: 14px;
+  font-weight: 800;
+  width: 82px;
+}
+
+.learning {
+  margin: 4px 12px;
+}
+
+.description {
+  color: var(--grey);
+}
+
+.author {
+  display: flex;
+  margin: 0px 0px 24px 24px;
+}
+
+.userpic {
+  width: 32px;
+}
+
+.authorname {
+  font-size: 14px;
+  font-weight: 800;
+}
