@@ -1,5 +1,5 @@
 # Blog preview card
 
-I got [this design from frontendmentor.io](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS) and then I created my own markup.
+I got this design from frontendmentor.io and then I created my own markup https://kmilo0.github.io/blog-preview-card/
 
-Live Site: https://kmilo0.github.io/blog-preview-card/
+[My Solution on frontendmentor.io](https://www.frontendmentor.io/solutions/solution-using-html-and-plain-css-9M3NASGiV-)
